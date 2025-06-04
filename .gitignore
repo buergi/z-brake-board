@@ -1,0 +1,6 @@
+*.lck
+fp-info-cache
+*-backups
+fabrication-toolkit-options.json
+*sch-bak
+*freerouting.dsn
