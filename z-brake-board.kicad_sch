@@ -2728,7 +2728,7 @@
 		(uuid "fecaa71d-4ce8-441b-bcbd-ba514a7d0290")
 	)
 	(label "XYZ_READY"
-		(at 100.33 60.96 180)
+		(at 95.25 60.96 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4870,7 +4870,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dcd0ed30-a96e-4938-874f-584b1e5afaae")
-		(property "Reference" "U3"
+		(property "Reference" "U2"
 			(at 142.24 95.25 0)
 			(effects
 				(font
@@ -4928,7 +4928,7 @@
 		(instances
 			(project "z-brake-board"
 				(path "/e01ab438-817d-4edd-afaa-2c11b95a7855"
-					(reference "U3")
+					(reference "U2")
 					(unit 1)
 				)
 			)
